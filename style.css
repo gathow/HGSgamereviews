@@ -7,10 +7,10 @@ menu {
   padding: 0;
   margin-bottom: 0;
   gap: 1em;
-    } 
+     } 
 a {
-  background-colour : black;
-  color : white;
+  font: 1.5em "Fira Sans", sans-serif;
+  color : #5076ce;
   }
 .Title {
   color : #5076ce;
@@ -20,7 +20,7 @@ a {
   padding: 1em;
   display: flex;
   flex-direction: column;
-     }
+       }
 .List {
   background-color: #1f2023;
   padding: 1em;
