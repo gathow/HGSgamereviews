@@ -1,8 +1,12 @@
 html {
   background : #1c1a18;
      }
-a {
-  font ; 1em "Fira Sans", sans-serif;
+menu {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  margin-bottom: 0;
+  gap: 1em;
 }
 .Title {
   color : #5076ce;
