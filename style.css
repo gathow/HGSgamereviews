@@ -11,9 +11,9 @@ menu {
 .Title {
   color : #5076ce;
   font: 1.5em "Fira Sans", sans-serif;
-  border : 5px #2b2d33;
+  border : solid thin black;
   background-color: #2a2c30;
-  padding: 0.5rem;
+  padding: 1em;
   display: flex;
   flex-direction: column;
      }
