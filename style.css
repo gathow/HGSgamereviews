@@ -7,11 +7,11 @@ menu {
   padding: 0;
   margin-bottom: 0;
   gap: 1em;
+  background-colour : black;
      } 
 a {
   font: 1.5em "Fira Sans", sans-serif;
   color : #5076ce;
-  background-colour : black;
   }
 .Title {
   color : #5076ce;
