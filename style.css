@@ -17,17 +17,14 @@ a {
   flex-direction: column;
        }
 .List {
-  
-      }
- .button {
-     list-style-type: none;
+  list-style-type: none;
   display: flex;
-  padding: 0;
+  padding: 2px;
   margin-bottom: 0;
   gap: 1.5em;
-  border: none;
+  border: solid white;
   outline: none;           
   box-shadow: none;
   font : 1em "Fira Sans", sans-serif;
   color : black;
-         }
+      }
