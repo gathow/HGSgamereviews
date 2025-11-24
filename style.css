@@ -5,8 +5,8 @@ a {
   font : 1.5em "Fira Sans", sans-serif;
   color : #5076ce;
   border : solid thin #5076ce;
-  padding : 1em;
-  
+  padding : 5px ;
+  border-radius: 10px;
 }
 .Title {
   color : #5076ce;
