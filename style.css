@@ -16,4 +16,15 @@ a {
   display: flex;
   flex-direction: column;
        }
-
+.List {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  margin-bottom: 0;
+  gap: 1.5em;
+  border: none;
+  outline: none;           
+  box-shadow: none;
+  font : 1em "Fira Sans", sans-serif;
+  color : black;
+      }
