@@ -8,6 +8,9 @@ menu {
   margin-bottom: 0;
   gap: 1.5em;
   background-color: #1f2023;
+  border: none;
+  outline: none;           
+  box-shadow: none;
      } 
 a {
   font: 1.5em "Fira Sans", sans-serif;
