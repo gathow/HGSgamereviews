@@ -1,8 +1,7 @@
 html {
   background : #1c1a18;
      }
-menu {
-     } 
+
 a {
   font: 1.5em "Fira Sans", sans-serif;
   color : #5076ce;
@@ -17,14 +16,4 @@ a {
   display: flex;
   flex-direction: column;
        }
-.List {
-  list-style-type: none;
-  display: flex;
-  padding: 0;
-  margin-bottom: 0;
-  gap: 1.5em;
-  background-color: #1f2023;
-  border: none;
-  outline: none;           
-  box-shadow: none;
-      }
+
