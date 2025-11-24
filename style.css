@@ -3,7 +3,8 @@ html {
      }
 a {
   font : 1.5em "Fira Sans", sans-serif;
-  color : white;
+  color : #5076ce;
+  border : solid thin #5076ce;
 }
 .Title {
   color : #5076ce;
