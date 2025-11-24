@@ -22,11 +22,13 @@ a {
   padding: 1em;
   display: flex;
   flex-direction: column;
+  
        }
 .List {
   border: solid thin black; 
   background-color: #1f2023;
   color : white;
-  border: none;             
+  border: solid #1f2023;             
   outline: none;
+  padding : 2px;
       }
