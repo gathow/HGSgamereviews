@@ -14,7 +14,7 @@ html {
   list-style-type: none;
   display: flex;
   padding: 1em;
-  margin-tom: 0.5em;
+  margin-bottom: none;
   gap: 1.5em;
   border: solid thin black;
   outline: none;           
