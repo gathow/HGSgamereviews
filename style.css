@@ -19,12 +19,12 @@ a {
 .List {
   list-style-type: none;
   display: flex;
-  padding: 2px;
+  padding: 1em;
   margin-bottom: 0;
   gap: 1.5em;
-  border: solid white;
+  border: solid thin black;
   outline: none;           
   box-shadow: none;
-  font : 1em "Fira Sans", sans-serif;
-  color : black;
+  font : 1.5em "Fira Sans", sans-serif;
+  color : #1f2023;
       }
