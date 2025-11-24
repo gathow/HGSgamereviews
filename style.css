@@ -14,14 +14,6 @@ a {
   color : #5076ce;
   background-color: #1f2023;
   }
-button {
-  border: none;
-  outline: none;
-  box-shadow: none;
-  border-radius: 5px;
-  background-color: #1f2023;
-  color : white;
-}
 .Title {
   color : #5076ce;
   font: 1.5em "Fira Sans", sans-serif;
@@ -30,9 +22,7 @@ button {
   padding: 1em;
   display: flex;
   flex-direction: column;
-  
        }
 .List {
-  background-color: #1f2023;
-  color : white;
+
       }
